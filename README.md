@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suleman Khokhar</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Suleman-Khokhar/Suleman-khokhar/assets/161107015/c1be9559-23e3-4070-ba97-1eef8f39c4c2">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleman-khokhar&label=Profile%20views&color=0e75b6&style=flat" alt="suleman-khokhar" /> </p>
 
