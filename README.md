@@ -50,10 +50,10 @@ class Builder:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suleman-Khokhar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suleman-Khokhar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+<img width="49%" src="https://ghstats.dev/api/card?username=Suleman-Khokhar&theme=midnight&bg=0d1117&text=c9d1d9&title_color=00f5ff&icon_color=00f5ff&hide_border=true&size=compact&compact_count=6" />
+<img width="49%" src="https://ghstats.dev/api/langs?username=Suleman-Khokhar&theme=midnight&bg=0d1117&text=c9d1d9&title_color=00f5ff&layout=bar&hide_border=true" />
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=Suleman-Khokhar&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
+<img width="65%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Suleman-Khokhar&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
 
 </div>
 
